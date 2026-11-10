@@ -314,11 +314,11 @@ The project generates:
 
 # 👤 Author
 
-**Meer Hyder Siddiqui**
+**MOHAMMED ABDUL RAHMAN ZAID**
 
 Aspiring Data Engineer
 
-GitHub: https://github.com/hydxr
+GitHub: https://github.com/Abdul-Rahman-Zaid
 
 
 ---
